@@ -1,0 +1,6 @@
+[project]
+name = "PFE_TECH_JOBS"
+version = "0.1.0"
+
+[tool.setuptools.packages.find]
+where = ["."]
